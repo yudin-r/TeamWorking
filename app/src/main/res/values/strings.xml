@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Team Working</string>
+    <string name="textSignUp">Создать новый аккаунт</string>
+    <string name="textSignIn">Войти в аккаунт</string>
+    <string name="textPassword">Пароль</string>
+    <string name="textEmail">Email</string>
+    <string name="textName">Имя</string>
+    <string name="textConfirmPassword">Подтвердите Пароль</string>
+</resources>

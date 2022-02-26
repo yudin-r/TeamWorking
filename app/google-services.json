@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881940256791",
+    "project_id": "team-working-a9d30",
+    "storage_bucket": "team-working-a9d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881940256791:android:22a89353f908585cbba452",
+        "android_client_info": {
+          "package_name": "yudinr.teamworking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881940256791-05370el9lcan5364n38k2d0leckhqc70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMelu_o1_ENL75LmL7wOSGYhbx9ECgBeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881940256791-05370el9lcan5364n38k2d0leckhqc70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
